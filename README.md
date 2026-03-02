@@ -2,8 +2,8 @@
 
 [![npm 包](https://img.shields.io/npm/v/@qubit-ltd/common-api.svg)](https://npmjs.com/package/@qubit-ltd/common-api)
 [![许可证](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/js-common-api/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/js-common-api/tree/master)
-[![覆盖率状态](https://coveralls.io/repos/github/Haixing-Hu/js-common-api/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/js-common-api?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/js-common-api/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/js-common-api/tree/master)
+[![覆盖率状态](https://coveralls.io/repos/github/qubit-ltd/js-common-api/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/js-common-api?branch=master)
 
 [@qubit-ltd/common-api] 是一个对常用 API 进行封装的 JavaScript 库。该库提供了一套统一的接口，用于与后端服务进行交互，简化了前端开发过程中的 API 调用操作。
 
@@ -203,4 +203,4 @@ async function createCategory(category) {
 有关更多详细信息，请参阅 [LICENSE](LICENSE) 文件。
 
 [@qubit-ltd/common-api]: https://npmjs.com/package/@qubit-ltd/common-api
-[GitHub 仓库]: https://github.com/Haixing-Hu/js-common-api
+[GitHub 仓库]: https://github.com/qubit-ltd/js-common-api
